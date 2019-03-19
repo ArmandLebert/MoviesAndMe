@@ -6,7 +6,7 @@ import Search from './Components/Search'
 export default class App extends React.Component {
   render() {
     return (
-      <Oh yes oh yes oh yes/>
+      <Search/>
     )
   }
 }
